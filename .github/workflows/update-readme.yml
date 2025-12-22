@@ -1,24 +1,23 @@
-name: Update README
+name: Update README with Repos
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Executa uma vez por semana
-  workflow_dispatch:  # Permite execução manual
+    - cron: '0 8 * * 1' # Executa toda segunda-feira às 08:00 UTC
+  workflow_dispatch: # Permite execução manual
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Update repositories list
-        uses: dhruvramani/generate-repos-list@main
+      - name: Checkout código
+        uses: actions/checkout@v3
+
+      - name: Gerar lista de repositórios e atualizar README
+        uses: athul/waka-readme@master
         with:
-          username: ${{ github.0Augusto}}
-          output_file: 'README.md'
-          start_comment: '<!-- A lista será inserida aqui automaticamente -->'
-          end_comment: '<!-- Fim da lista -->'
-      - name: Commit and push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add README.md
-          git commit -m "Update repositories list" || echo "No changes"
-          git push
+          SHOW_PROJECTS: true
+          SHOW_TITLE: false
+          PROJECTS_SORT_BY: "stars"
+          MAX_PROJECTS: 6
+          COMMIT_MESSAGE: "📦 Atualização automática: projetos em destaque"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
