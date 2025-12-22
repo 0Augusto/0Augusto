@@ -11,7 +11,7 @@ jobs:
       - name: Update repositories list
         uses: dhruvramani/generate-repos-list@main
         with:
-          username: ${{ github.repository_owner }}
+          username: ${{ github.0Augusto}}
           output_file: 'README.md'
           start_comment: '<!-- A lista será inserida aqui automaticamente -->'
           end_comment: '<!-- Fim da lista -->'
