@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Augusto!
 
-**🚀 Portfólio Completo:** [0augusto.github.io/portifolio/](https://0augusto.github.io/portifolio/)
-
+**🚀 Portfólio Completo:** 
 [![Visite meu Portfólio](https://img.shields.io/badge/🚀-Portfólio_Completo-FF7139?style=for-the-badge)](https://0augusto.github.io/portifolio/)
 
 **Desenvolvedor de Software** apaixonado por criar soluções eficientes...
