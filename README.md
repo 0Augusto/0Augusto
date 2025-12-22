@@ -35,7 +35,7 @@ Sou **Henrique Augusto Rodrigues**, especialista em **Cibersegurança & Tecnolog
 
 Profissional e pesquisador com experiência prática em projetos de segurança para redes veiculares (VANETs/5G), hardware evolutivo com FPGA e desenvolvimento de ferramentas com Arduino. Possuo formação sólida pela **Cisco Networking Academy** e conhecimento em áreas como redes, compiladores, arquitetura computacional e IA.
 
-**Contato:** 📧 henriguerod21@gmail.com | 📞 +55 31 98498-0864
+**Contato:** 📧 henriguerod21@gmail.com | 📞 +55 31 
 
 ---
 
