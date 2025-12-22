@@ -29,6 +29,48 @@ Desenvolvo com um foco em desempenho e sistemas, utilizando principalmente:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
 
+## 👨‍💻 Sobre Mim
+
+Sou **Henrique Augusto Rodrigues**, especialista em **Cibersegurança & Tecnologias Emergentes**, com base em Belo Horizonte, MG.
+
+Profissional e pesquisador com experiência prática em projetos de segurança para redes veiculares (VANETs/5G), hardware evolutivo com FPGA e desenvolvimento de ferramentas com Arduino. Possuo formação sólida pela **Cisco Networking Academy** e conhecimento em áreas como redes, compiladores, arquitetura computacional e IA.
+
+**Contato:** 📧 henriguerod21@gmail.com | 📞 +55 31 98498-0864
+
+---
+
+## 🧠 Experiência & Pesquisa
+
+**PUC Minas - Hacker Maker Space Lab** (2022-2023)
+*Bolsista de Pesquisa*
+- Desenvolvimento de hardware evolutivo com FPGA.
+- Criação de um laboratório portátil com Arduino para fins educacionais.
+
+**PUC Minas - Mobilab** (2020-2022)
+*Bolsista de Pesquisa*
+- Pesquisa em segurança cibernética para Redes Veiculares Ad Hoc (VANETs).
+- Investigação de ataques DDoS e desenvolvimento de estratégias de mitigação.
+
+---
+
+## ⚙️ Habilidades Técnicas
+
+**Linguagens & Tecnologias:** `C` `C++` `Python` `Go` `Assembly` `Swift`
+**Redes & Segurança:** `Segurança Ofensiva` `Teste de Penetração` `Forense Digital` `Cisco CCNA/CCNP`
+**Hardware & Embedded:** `FPGA` `Arduino` `Sistemas Embarcados`
+**Ferramentas & Plataformas:** `Ferramentas de Pentest` `AWS` `Linux (Red Hat)` `Docker & Kubernetes`
+
+---
+
+## 📜 Certificações em Destaque
+
+- **Cisco CyberOps Associate** - Análise de segurança e resposta a incidentes.
+- **Cisco CCNA 7: Introdução às Redes** - Fundamentos de redes e protocolos.
+- **Red Hat System Administration I (RH124)** - Administração de sistemas Linux.
+- **AWS Academy Cloud Foundations** - Fundamentos da nuvem AWS.
+- **Web Security & Bug Bounty** (Zero To Mastery) - Testes de penetração web.
+
+*Para ver a lista completa de certificações, visite meu portfólio completo: [https://0augusto.github.io/portifolio/](https://0augusto.github.io/portifolio/)*
 ---
 
 ## 📂 Meus Projetos em Destaque
