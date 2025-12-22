@@ -93,3 +93,4 @@ Profissional e pesquisador com experiência prática em projetos de segurança p
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/henrique-augusto-rodrigues-a39b23188?))
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](henriquerod21@gmail.com)
+[![Portfólio Completo](https://img.shields.io/badge/🚀-Portfólio_Completo-FF7139?style=for-the-badge)](https://0augusto.github.io/portifolio/)
