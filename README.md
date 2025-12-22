@@ -1,6 +1,10 @@
 # 👋 Olá, eu sou Augusto!
 
-**Desenvolvedor de Software** apaixonado por criar soluções eficientes e aprender novas tecnologias.
+**🚀 Portfólio Completo:** [0augusto.github.io/portifolio/](https://0augusto.github.io/portifolio/)
+
+[![Visite meu Portfólio](https://img.shields.io/badge/🚀_Visite_meu_Portfólio-0augusto.github.io/portifolio/-blue?style=for-the-badge&logo=github)](https://0augusto.github.io/portifolio/)
+
+**Desenvolvedor de Software** apaixonado por criar soluções eficientes...
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0Augusto&show_icons=true&theme=radical&hide_border=true)](https://github.com/0Augusto)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0Augusto&layout=compact&theme=radical&hide_border=true)](https://github.com/0Augusto)
