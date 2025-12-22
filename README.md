@@ -69,7 +69,7 @@ Profissional e pesquisador com experiência prática em projetos de segurança p
 - **AWS Academy Cloud Foundations** - Fundamentos da nuvem AWS.
 - **Web Security & Bug Bounty** (Zero To Mastery) - Testes de penetração web.
 
-*Para ver a lista completa de certificações, visite meu portfólio completo: [https://0augusto.github.io/portifolio/](https://0augusto.github.io/portifolio/)*
+[![Visite meu Portfólio](https://img.shields.io/badge/🚀-Portfólio_Completo-FF7139?style=for-the-badge)](https://0augusto.github.io/portifolio/)
 ---
 
 ## 📂 Meus Projetos em Destaque
