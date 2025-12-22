@@ -13,7 +13,7 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-Desenvolvo principalmente com as seguintes tecnologias, que estão entre as mais populares e versáteis da comunidade[citation:1]:
+Desenvolvo principalmente com as seguintes tecnologias, que estão entre as mais populares e versáteis da comunidade:
 ## 🚀 Tecnologias e Ferramentas
 
 Desenvolvo com um foco em desempenho e sistemas, utilizando principalmente:
