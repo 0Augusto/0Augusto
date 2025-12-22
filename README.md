@@ -47,8 +47,3 @@ Desenvolvo com um foco em desempenho e sistemas, utilizando principalmente:
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/henrique-augusto-rodrigues-a39b23188?))
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](henriquerod21@gmail.com)
-
----
-*📌 **Dica:** Explore repositórios incríveis da comunidade, como guias de estudo ([coding-interview-university](https://github.com/jwasham/coding-interview-university))[citation:5] ou listas de APIs públicas ([public-apis](https://github.com/public-apis/public-apis))[citation:4][citation:5], para inspirar seus próprios projetos!*
-
-*Última atualização automática: {{ date }}*
