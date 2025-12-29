@@ -4,7 +4,7 @@ Script para atualizar automaticamente o README.md
 com lista de repositórios e linguagens mais usadas
 """
 import os
-import requests
+#import requests
 from datetime import datetime
 
 # ================= CONFIGURAÇÃO =================
