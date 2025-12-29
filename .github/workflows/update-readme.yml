@@ -1,23 +1,32 @@
-name: Update README with Repos
+name: Update README with Stats
 on:
   schedule:
-    - cron: '0 8 * * 1' # Executa toda segunda-feira às 08:00 UTC
-  workflow_dispatch: # Permite execução manual
+    - cron: '0 8 * * 1'  # Executa toda segunda-feira às 08:00 UTC
+  workflow_dispatch:      # Permite execução manual na aba "Actions"
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout código
         uses: actions/checkout@v3
 
-      - name: Gerar lista de repositórios e atualizar README
-        uses: athul/waka-readme@master
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          SHOW_PROJECTS: true
-          SHOW_TITLE: false
-          PROJECTS_SORT_BY: "stars"
-          MAX_PROJECTS: 6
-          COMMIT_MESSAGE: "📦 Atualização automática: projetos em destaque"
+          python-version: '3.10'
+
+      - name: Executar script de atualização
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_readme.py
+
+      - name: Commit e push das mudanças
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "📈 Atualização automática: repositórios e linguagens"
+          git push
